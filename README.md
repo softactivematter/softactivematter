@@ -1,4 +1,4 @@
-### Soft and Active Matter Research Group
+### Soft and Active Matter Research
 
 Programming languages that we use:
 1. python
